@@ -464,3 +464,14 @@ section .main .main_img img {
     color: #089da1;
     cursor: pointer;
 }
+
+footer {
+    width: 100%;
+    background: #eaeaea;
+}
+
+footer .footer_main {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
