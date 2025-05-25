@@ -496,3 +496,14 @@ footer .footer_main .tag h1 {
     margin: 25px 0;
     color: #000;
 }
+
+footer .footer_main .tag a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+footer .footer_main .tag i {
+    margin-right: 10px;
+}
