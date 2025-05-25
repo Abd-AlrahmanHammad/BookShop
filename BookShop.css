@@ -475,3 +475,12 @@ footer .footer_main {
     display: flex;
     justify-content: space-around;
 }
+
+footer .footer_main .tag {
+    margin: 10px 0;
+}
+
+footer .footer_main .tag img {
+    width: 100px;
+    margin-bottom: 10px;
+}
